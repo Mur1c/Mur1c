@@ -2,8 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning html,css and python
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me 
-I'm from Serbia,City Novi Pazar
+- 📫 How to reach me I'm from Serbia,City Novi Pazar
 My adress: Lug 4
 postalcode: 36300
 Instagram: https://www.instagram.com/mehmedmuricc/
